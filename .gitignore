@@ -1,0 +1,14 @@
+build/
+host-tools/
+libiconv-*/
+gmp-*/
+isl-*/
+mpc-*/
+mpfr-*/
+binutils-*/
+gcc-*/
+glibc-*/
+gdb-*/
+*.tar.gz
+*.tar.xz
+*.tar.bz2
